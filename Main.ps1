@@ -1,5 +1,5 @@
 ###Stock FTP Cleaner
-###peter.endacott@ivendi.com
+###pete.endacott@gmail.com
 
 $folders=@()
 $currentDate = get-Date
