@@ -17,7 +17,7 @@ $deleteDays = 15 ###Age in days of files to be deleted
 $archiveFolderRoot = "C:\Test\FTPArchive\" ###Archive folder root. Files will be moved into a subdirectory named after original parent folder within this folder.
 
 ###specify the folders to crawl below
-$folders = "C:\test\FTPTest\"#,"C:\Test\FTPTest\mercstockdata"
+$folders = "C:\test\FTPTest\"
 
 ############END OF EDITABLE VARIABLES############
 
