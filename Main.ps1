@@ -1,4 +1,4 @@
-###Stock FTP Cleaner
+###File Cleaner
 ###pete.endacott@gmail.com
 
 $folders=@()
